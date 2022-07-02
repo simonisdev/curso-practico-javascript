@@ -1,0 +1,9 @@
+# El archivo .gitignore, es un archivo de texto que le dice a Git qué archivos o carpetas ignorar en un proyecto.
+
+# * => se utiliza como una coincidencia comodín.
+# / => se usa para ignorar las rutas relativas al archivo .gitignore
+# # => para agregar comentarios. 
+
+# https://www.freecodecamp.org/espanol/news/gitignore-explicado-que-es-y-como-agregar-a-tu-repositorio/
+
+
